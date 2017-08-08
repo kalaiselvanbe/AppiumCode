@@ -104,7 +104,6 @@ public class Whatsappcode {
 		if(headerText.getText().equals("Select contact")){
 			System.out.println("Inside the select contact page");
 		}		
-		
 		scrollToExactText("Kutty Darling");	
 		
 		SendMessage("hi dear, how are you$$$$");
